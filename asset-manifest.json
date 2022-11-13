@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AndreyDid/HOC.git/static/css/main.6db5275d.chunk.css",
+    "main.js": "/AndreyDid/HOC.git/static/js/main.32b32033.chunk.js",
+    "main.js.map": "/AndreyDid/HOC.git/static/js/main.32b32033.chunk.js.map",
+    "runtime-main.js": "/AndreyDid/HOC.git/static/js/runtime-main.251b00ae.js",
+    "runtime-main.js.map": "/AndreyDid/HOC.git/static/js/runtime-main.251b00ae.js.map",
+    "static/css/2.c2edc5f9.chunk.css": "/AndreyDid/HOC.git/static/css/2.c2edc5f9.chunk.css",
+    "static/js/2.a142f0cf.chunk.js": "/AndreyDid/HOC.git/static/js/2.a142f0cf.chunk.js",
+    "static/js/2.a142f0cf.chunk.js.map": "/AndreyDid/HOC.git/static/js/2.a142f0cf.chunk.js.map",
+    "static/js/3.8e285011.chunk.js": "/AndreyDid/HOC.git/static/js/3.8e285011.chunk.js",
+    "static/js/3.8e285011.chunk.js.map": "/AndreyDid/HOC.git/static/js/3.8e285011.chunk.js.map",
+    "index.html": "/AndreyDid/HOC.git/index.html",
+    "static/css/2.c2edc5f9.chunk.css.map": "/AndreyDid/HOC.git/static/css/2.c2edc5f9.chunk.css.map",
+    "static/css/main.6db5275d.chunk.css.map": "/AndreyDid/HOC.git/static/css/main.6db5275d.chunk.css.map",
+    "static/js/2.a142f0cf.chunk.js.LICENSE.txt": "/AndreyDid/HOC.git/static/js/2.a142f0cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251b00ae.js",
+    "static/css/2.c2edc5f9.chunk.css",
+    "static/js/2.a142f0cf.chunk.js",
+    "static/css/main.6db5275d.chunk.css",
+    "static/js/main.32b32033.chunk.js"
+  ]
+}
